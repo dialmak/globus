@@ -1,0 +1,25 @@
+
+
+/* Put your custom styles here */
+
+.icon-margin
+{
+    margin-right: 8px;
+}
+
+.font-white
+{
+    font-size: 22px;
+}
+
+.font-blue
+{
+    color: #3498DB;
+}
+
+.pad-lr0
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
