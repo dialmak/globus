@@ -23,8 +23,42 @@
     padding-right: 0px;
 }
 
-.viber {
-	margin-top: -10px;
-	margin-left: -78px;
+.viber
+{
+    margin-top: -10px;
+    margin-left: -78px;
+}
+
+.my
+{
+	 height: 640px;
+	background: url("../images/europa.png") center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 140px 0;
+	
+}
+
+.my h1
+{
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.my h2
+{
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.my a
+{
+    margin-top: 40px;
+}
+.font-white2
+{
+    font-size: 42px;
 }
 

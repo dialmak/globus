@@ -793,11 +793,12 @@ Version: 1.0
 
 .promo-3
 {
-    background: url("../images/europa.png") center top no-repeat;
+    background: url("../images/star-sky.jpg") center top no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-attachment: fixed;
     padding: 140px 0;
 }
 
@@ -860,12 +861,11 @@ Version: 1.0
 
 .content-1-1
 {
-    background: url("../images/moskow.jpg") center top no-repeat;
+    background: url("../images/typewriter-bg.jpg") center top no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .content-1-1 .container
@@ -4335,6 +4335,7 @@ Version: 1.0
     border-top: #ecf0f1 1px solid;
     text-align: center;
     margin-top: 10px;
+    
 }
 
 .footer-1-3 .footer-text p
