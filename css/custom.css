@@ -32,12 +32,13 @@
 .my
 {
 	 height: 640px;
-	background: url("../images/europa.png") center no-repeat;
+	background: url("../images/europa1.png") center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     padding: 140px 0;
+	
 	
 }
 
@@ -60,5 +61,73 @@
 .font-white2
 {
     font-size: 42px;
+}
+
+.my
+{
+	 height: 450px;
+	background: url("../images/europa.png") center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 100px 0;
+	
+	
+}
+
+.my h1
+{
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.my h2
+{
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.my a
+{
+    margin-top: 40px;
+}
+.font-white2
+{
+    font-size: 42px;
+}
+
+.my2
+{
+	 height: 450px;
+	background: url("../images/moskow.jpg") center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 100px 0;
+	
+	
+}
+
+.my2 h1
+{
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.my2 h2
+{
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.my2 a
+{
+    margin-top: 40px;
+}
+
+.label-my {
+  background-color: #000000;
 }
 
