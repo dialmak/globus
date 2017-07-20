@@ -1956,6 +1956,15 @@ fieldset[disabled] .form-control
     color: #ffffff;
 }
 
+.content-block1
+{
+    width: 100%;
+    padding: 10px 0 10px 0;
+    z-index: 100;
+    position: relative;
+    background-color: #3E606F;
+    color: #ffffff;
+}
 .content-block-nopad
 {
     width: 100%;
